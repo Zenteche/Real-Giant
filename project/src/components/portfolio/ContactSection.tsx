@@ -14,8 +14,8 @@ export function ContactSection() {
         </div>
         <div className="flex items-center gap-3">
           <Phone className="w-5 h-5 text-[#00FF9D]" />
-          <a href="tel:+1234567890" className="text-gray-300 hover:text-white">
-            +1 (234) 567-890
+          <a href="tel:+2347042661971" className="text-gray-300 hover:text-white">
+             +234 704 266 1971
           </a>
         </div>
         <div className="flex items-center gap-3">
